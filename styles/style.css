@@ -1,1 +1,14 @@
+/* Global */
+body{
+    background : #f2f2f2;
+}
 
+/* Change Font */
+.age-font{
+    font-family : 'Lobster', cursive;
+    margin: 40px;
+}
+
+.alignEl{
+    margin: 150px auto;
+}
